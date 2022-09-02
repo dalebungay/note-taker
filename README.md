@@ -8,8 +8,8 @@
 
 # Screenshots
 
-![Screenshot1](./assets/sc1.jpg)
-![Screenshot1](./assets/sc2.jpg)
+![Screenshot1](/assets/sc1.jpg)
+![Screenshot1](/assets/sc2.jpg)
 
 # Deployment
 
